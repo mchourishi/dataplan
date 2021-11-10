@@ -1,24 +1,13 @@
-# dataplan
+# DataPlan
 
-## Project setup
-```
-npm install
-```
+## Description
+- Simple page showing dataplans using Vue Components.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Installation
+Run ```npm install``` to install dependencies.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Run 
+From Command Line, cd to dataplan directory.
+Run ```npm run serve```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
